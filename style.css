@@ -1,0 +1,9 @@
+.myDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.PS2 {
+    color: blue;
+    font-size: 3vw;
+}
