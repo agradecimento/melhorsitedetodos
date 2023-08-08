@@ -4,6 +4,18 @@
 }
 
 .PS2 {
-    color: blue;
+    color: #62ffee;
     font-size: 3vw;
 }
+
+body {
+  background-color: #003d52;
+}
+
+p {
+  color: #ff0000;
+  text-shadow: 2px 2px 5px red;
+  font-size: 240%;
+}
+
+
