@@ -1,4 +1,3 @@
-alert('eae')
 console.log("funcionando")
   function PS22() {
    console.log("playtaton 1")
